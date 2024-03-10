@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Einfache Notizen</string>
+    <string name="title">Titel</string>
+    <string name="add_notes">Inhalt:</string>
+    <string name="content">Inhalt</string>
+    <string name="date">Datum</string>
+    <string name="search">Suche</string>
+    <string name="pin_unpin">Anheften/Lösen</string>
+    <string name="delete">Löschen</string>
+    <string name="toAdd">Bitte fügen Sie einige Notizen hinzu!</string>
+    <string name="deleted">Die Notiz wurde gelöscht.</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="sure">Sind Sie sicher, dass Sie die Notiz löschen möchten?</string>
+    <string name="info">Einstellungen</string>
+    <string name="About">Basierend auf Raum\nVersuchen Sie, nach links oder rechts zu wischen und lange zu drücken</string>
+    <string name="create">Erstellungsdatum: </string>
+    <string name="toast">Diese Notiz wurde angeheftet.</string>
+    <string name="confirm">Bestätigen</string>
+    <string name="filter">Filter</string>
+    <string name="save">Speichern</string>
+    <string name="alarm">Erinnern</string>
+    <string name="note">Notiz</string>
+    <string name="add">Neue Notiz erstellen</string>
+    <string name="login">anmelden</string>
+    <string name="usePassword">Verwenden Sie das Passwort des Systemsperrenbildschirms</string>
+    <string name="noPassword">Kein Passwort</string>
+    <string name="shareApp">Diese App teilen</string>
+    <string name="rate">Diese App bewerten</string>
+    <string name="deleteAll">Alle Notizen löschen</string>
+    <string name="shareContent">Holen Sie sich Simple Notes jetzt aus dem Google Play Store:\nhttps://play.google.com/store/apps/details?id=com.yangdai.notesapp</string>
+    <string name="accent_colour" translatable="false">Akzentfarbe</string>
+
+    <!-- Font size options in German -->
+    <string name="small_font">Klein</string>
+    <string name="medium_font">Mittel</string>
+    <string name="large_font">Groß</string>
+    <string name="main_menu">Hauptmenü</string>
+    <string name="launcher_title" translatable="false">Einfache Notizen</string>
+    <string name="apply_changes" translatable="false">Änderungen anwenden</string>
+    <string name="background_colour" translatable="false">Hintergrundfarbe</string>
+    <string name="colour_indicator" translatable="false">Farbindikator</string>
+    <string name="colour_navigation_bar" translatable="false">Farbnavigationsleiste</string>
+    <string name="confirm_delete" translatable="false">Löschung bestätigen</string>
+    <string name="confirm_delete_text" translatable="false">Sind Sie sicher, dass Sie diese Notiz löschen möchten?</string>
+    <string name="empty_list_text" translatable="false"></string>
+    <string name="exception" translatable="false">Ausnahme: </string>
+    <string name="font_colour" translatable="false">Schriftfarbe</string>
+    <string name="new_note" translatable="false">Neue Notiz</string>
+    <string name="no" translatable="false">Nein</string>
+    <string name="settings" translatable="false">Einstellungen</string>
+    <string name="share_to" translatable="false">Teilen mit:</string>
+    <string name="share" translatable="false">Teilen</string>
+    <string name="sort" translatable="false">Sortieren</string>
+    <string name="yes" translatable="false">Ja</string>
+    <string name="undo" translatable="false">Rückgängig machen</string>
+    <string name="done" translatable="false">Fertig</string>
+    <string name="get_note" translatable="false">Notiz abrufen</string>
+    <string name="set_note" translatable="false">Notiz festlegen</string>
+    <string name="note_change" translatable="false">Notiz geändert</string>
+    <string name="note_title" translatable="false">Notiztitel</string>
+    <string name="note_title_description" translatable="false">Der Titel der Notiz</string>
+    <string name="note_content" translatable="false">Notizinhalt</string>
+    <string name="note_content_description" translatable="false">Die Inhalte der Notiz</string>
+    <string name="append" translatable="false">Anhängen</string>
+    <string name="append_text" translatable="false">Text anhängen anstatt zu überschreiben</string>
+    <string name="note_not_found" translatable="false">Notiz %1$s nicht gefunden</string>
+    <string name="register" translatable="false">registrieren</string>
+    <string name="signup" translatable="false">Anmelden</string>
+    <string name="logout" translatable="false">Ausloggen</string>
+    <string name="delete_notes" translatable="false">Notiz löschen</string>
+    <string name="create_notes" translatable="false">Notiz erstellen</string>
+    <string name="show_notes" translatable="false">Notiz anzeigen</string>
+    <string name="username">Benutzername</string>
+    <string name="password">Passwort</string>
+    <string name="schriftgr_e">Schriftgröße</string>
+</resources>
